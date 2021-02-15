@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm <a href="mujahidinfo.com">Mujahid</a> 👋
+<h3>🐍 Python Lover 😍 || Motion Artist 💓</h3>
 🌱 I’m currently learning Python Django ❤
-
 <!--
 **Mujahid-Developer/Mujahid-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
