@@ -1,6 +1,6 @@
-### Hi there, I'm <a href="mujahidislam.netlify.app">Mujahid</a> 👋
+### Hi there, I'm <a href="https://mujahidislam.netlify.app">Mujahid</a> 👋
 <h3>🐍 Python Lover 😍 || Motion Artist 💓</h3>
-🔭 I’m currently working on <a href="programming-hero.com">Programming Hero</a> <br>
+🔭 I’m currently working on <a href="https://programming-hero.com">Programming Hero</a> <br>
 🌱 I’m currently learning Python Django ❤ <br>
 ⚡ Fun fact: I love Traveling. 
 <!--
