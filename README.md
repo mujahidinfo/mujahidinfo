@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://mujahidislam.netlify.app">Mujahid</a> 👋
 <h3>🐍 Python Lover 😍 || Motion Artist 💓</h3>
 🔭 I’m currently working on <a href="https://programming-hero.com">Programming Hero</a> <br>
-🌱 I’m currently learning Python Django ❤ <br>
+🌱 I’m currently learning React Js ❤ <br>
 ⚡ Fun fact: I love Traveling. 
 <!--
 **Mujahid-Developer/Mujahid-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
