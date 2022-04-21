@@ -25,7 +25,7 @@ Hello there 👋
 
 I’m Mujahid, a Front-end Developer , creative coder and self-proclaimed developer who specializes in React JS, Node.JS. I make it my mission to develop applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://mujahidislam.netlify.app/)
+Want to know more about me? [Check out my portfolio.](https://mujahidinfo.vercel.app/)
 
 <br>
 
