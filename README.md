@@ -29,8 +29,8 @@ Want to know more about me? [Check out my portfolio.](https://mujahidinfo.vercel
 
 <br>
 
-![profile count](https://komarev.com/ghpvc/?username=Mujahid-Developer&color=red)&nbsp;
-[![GitHub ShrikantaMazumder](https://img.shields.io/github/followers/Mujahid-Developer?label=follow&style=social)](https://github.com/Mujahid-Developer)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=mujahidinfo&color=red)&nbsp;
+[![GitHub mujahidinfo](https://img.shields.io/github/followers/mujahidinfo?label=follow&style=social)](https://github.com/mujahidinfo)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
@@ -59,11 +59,11 @@ Want to know more about me? [Check out my portfolio.](https://mujahidinfo.vercel
 
 <br>
 
-<a href="https://github.com/Mujahid-Developer">
+<a href="https://github.com/mujahidinfo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid-Developer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Mujahid-Developer">
+<a href="https://github.com/mujahidinfo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mujahid-Developer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Mujahid's GitHub Stats" />
 </a>
 
